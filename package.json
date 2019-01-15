@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_for_beginners_create_server_side_apps_with_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anadon22/Nodejs_For_Beginners_Create_Server_Side_Apps_with_JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anadon22/Nodejs_For_Beginners_Create_Server_Side_Apps_with_JavaScript/issues"
+  },
+  "homepage": "https://github.com/anadon22/Nodejs_For_Beginners_Create_Server_Side_Apps_with_JavaScript#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
