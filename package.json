@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/anadon22/Nodejs_For_Beginners_Create_Server_Side_Apps_with_JavaScript#readme",
   "dependencies": {
-    "moment": "^2.23.0"
+    "moment": "^2.23.0",
+    "request": "^2.88.0"
   }
 }

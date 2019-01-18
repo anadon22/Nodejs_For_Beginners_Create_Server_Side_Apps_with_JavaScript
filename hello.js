@@ -13,6 +13,7 @@ function serverCallback (req, res) {
   msg += "Now, it is " + currentTime.format('HH:mm') + ".\n";
   msg += "Our business hours is from " + startTime.format("HH:mm") + " to " + endTime.format("HH:mm") + ".\n";
 
+  msg += "Hello Luka :-)";
   var startTimeDiff = startTime.diff(currentTime, 'minutes');
   var endTimeDiff = currentTime.diff(endTime, 'minutes');
 
